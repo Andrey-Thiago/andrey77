@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Seu Site de Apresentação</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        header {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 1em;
+        }
+        section {
+            padding: 20px;
+            text-align: center;
+        }
+        footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 1em;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Escola Prof. Carmen Costa Adriano.</h1>
+        <p>Conheça uma das melhores escolas
+de Paranaguá,PR</p>
+    </header>
+
+    <section>
+        <h2>Sobre Nós</h2>
+        <p>O Colégio Estadual Professora Carmen Costa Adriano, localizado em Paranaguá, é uma instituição dedicada à excelência educacional. Com uma equipe comprometida e estrutura moderna, buscamos proporcionar um ambiente propício para o desenvolvimento acadêmico e pessoal dos nossos alunos. Valorizamos a educação integral, promovendo o aprendizado, a cidadania e o respeito, preparando os estudantes para os desafios do futuro. Estamos orgulhosos de contribuir para a formação de indivíduos competentes e conscientes em nossa comunidade..</p>
+    </section>
+
+    <section>
+        <h2>Imagem da logo do colégio</h2>
+        <img alt="Colégio Estadual &quot;Profª Carmen Costa Adriano&quot; | Paranaguá PR" id="dimg_31" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpllEYfwDRYYwalCDFzRruJXtiHmbHkCQZtWievt9jtmMj8p1VnVbFi9c-hA&amp;s" data-csiid="27" data-atf="4" data-ilt="1709562191995">
+    
+</section>
+
+    <section>
+        <h2>Contato</h2>
+        <p> Atendimento a secretaria - Telefone: (41) 3423-
+6420 - (41) 3340-1500 </p>
+    </section>
+
+    <footer>
+        <p>© Desenvolvido por Andrey Thigao Pereira silva.</p>
+    <p>Endereço:
+RUA MOHAMAD HAMUD HAMUD SN, 383, VL COMERCIARIOS, Paranaguá-PR, 83215060, Brasil
+
+</p></footer>
+
+
+
+</body></html>
